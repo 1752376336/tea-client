@@ -19,3 +19,4 @@ node_modules/
 proxy.config.js
 phantomjsdriver.log
 yarn.lock
+dist/
